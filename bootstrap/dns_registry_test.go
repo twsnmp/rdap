@@ -7,7 +7,7 @@ package bootstrap
 import (
 	"testing"
 
-	"github.com/openrdap/rdap/test"
+	"github.com/twsnmp/rdap/test"
 )
 
 func TestNetRegistryLookupsDNSNested(t *testing.T) {
